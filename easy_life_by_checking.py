@@ -25,3 +25,7 @@ while True:
             # esci da questo ciclo
             # (prosegue dall'istruzione "what_i_like_now = ...")
             break
+
+    if end:
+        # Se l'attività è terminata => rimuovila dalla memoria
+        MEMORY.remove(what_i_like_now)
