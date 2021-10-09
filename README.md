@@ -64,7 +64,7 @@ Da notare che alla ripartenza il contesto di scelta sarà cambiato, perché incl
 Questo è un gioco, ma se aiuta a vivere meglio, più felici, più costruttivi e più collaborativi, allora è anche educazione e autoeducazione per chi raccoglie la sfida.
 
 I concetti qui espressi sono talmente semplici che chiamo amichevolmente:
-**"Il segreto di ciuffichetto"**, e mi chiedo:
+**"Il segreto de ciuffichitto"**, e mi chiedo:
 
 forse a qualcuno, come a me, piace giocare su questi aspetti, immaginare e 
 raccogliere con la felicità dello stupore che al di là di tutte le apparenze,
