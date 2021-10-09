@@ -20,7 +20,7 @@ while True:
         end = do_a_step(what_i_like_now)
 
         # Se "end" (o "finito") è vera, oppure se avviene un evento che interrompe
-        if end or there_is(an_interrupt):
+        if end or there_is(an_event):
 
             # esci da questo ciclo
             # (prosegue dall'istruzione "what_i_like_now = ...")
@@ -29,3 +29,5 @@ while True:
     if end:
         # Se l'attività è terminata => rimuovila dalla memoria
         MEMORY.remove(what_i_like_now)
+    else:
+        MEMORY.insert(stuff_regarding_the_event)
