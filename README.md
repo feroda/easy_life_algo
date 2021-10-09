@@ -78,3 +78,16 @@ In un unico stupendo istante definito dai grandi maestri come:
 - Ichinen Sanzen: tremila regni in un singolo istante di vita;
 - Adesso;
 - Axé.
+
+#spicynaturale #spicynonbanale #easylife #findinghappiness #thissongoffreedom 
+
+#non-lasciare-che-sia-una-canzone-damore-buttata-via #perché-potremmo-ritornare 
+
+#ci-sembrerà-di-essere-più-liberi-se-dalle-nostre-mani-non-cadranno-parole-per-noi-due
+
+#e-non-finisce-mica-il-cielo
+
+#here-comes-the-flood #the-spirit-carries-on #excelsior #let-the-music-play #suppers-ready-in-this-new-Jerusalem #my-way
+
+#hacking-4-love #ti-va-di-giocare-con-me
+
