@@ -51,3 +51,10 @@ Aggiorno sull'organizzazione nel mio canale personale "Io Scrivo Software Libero
 
 Per chi volesse seguire anche il pomeriggio, il nostro programma locale è pubblicato su [https://pdp.linux.it](https://pdp.linux.it)
 
+### Segnalo la mia partecipazione
+
+Fai una pull request con il tuo nome, azienda per cui lavori, località da dove chiami, ruolo, e se vuoi hobby e una frase/motto/augurio/saluto :-)
+
+Nella PR puoi anche correggere il testo qui sopra, se non mi piace non te l'accetto :-D #grazie #ciao #viamotuttiinquestospicybar ;-)
+
+* 
