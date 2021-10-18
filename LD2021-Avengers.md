@@ -57,4 +57,4 @@ Fai una pull request con il tuo nome, azienda per cui lavori, località da dove 
 
 Nella PR puoi anche correggere il testo qui sopra, se non mi piace non te l'accetto :-D #grazie #ciao #viamotuttiinquestospicybar ;-)
 
-* Giulia Naponiello - Senior Software Engineer - la mia frase preferita quando si parla di Open Source e' "given enough eyeballs, all bugs are shallow". E' sinonimo di inclusione e anche questo e' il bello dell'Open Source.
+* **Giulia Naponiello - Senior Software Engineer** - la mia frase preferita quando si parla di Open Source è "given enough eyeballs, all bugs are shallow" - "Dato un numero sufficiente di occhi, tutti i bug vengono a galla". È sinonimo di inclusione e anche questo è il bello dell'Open Source.
